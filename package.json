@@ -1,6 +1,6 @@
 {
   "name": "bcrypt-browser",
-  "version": "0.8",
+  "version": "0.8.0",
   "description": "Shim for bcrypt",
   "main": "index.js",
   "scripts": {
